@@ -10,5 +10,8 @@ fun main() {
 
     for (int in arrInt){
         println(int)
+
     }
+
+    println(arr1[3])
 }
